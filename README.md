@@ -2,7 +2,7 @@
 Source code of my game clone "Knife Hit".
 
 ### [Русский]
-- Исходный код моего клона игры "Knife Hit" сделанный как тестовое задание для Dofler Games.
+- Исходный код моего клона игры "Knife Hit" сделанный как тестовое задание для Dorfer Games.
 
 ### [Особенности]
 - Смотреть видео - https://youtu.be/jum9jnbbrCU
